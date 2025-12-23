@@ -50,7 +50,5 @@ py -m streamlit run app.py
 Add your API keys in a .env file:
 
 PINECONE_API_KEY=
-
 SERPAPI_API_KEY=
-
 PINECONE_INDEX_NAME=
