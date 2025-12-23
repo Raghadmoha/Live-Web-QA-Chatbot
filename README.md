@@ -1,4 +1,4 @@
-# Live Web Search RAG Chatbot (Simple README)
+# Live Web Search RAG Chatbot
 
 This project is a Streamlit chatbot that:
 
