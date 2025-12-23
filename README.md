@@ -45,7 +45,7 @@ Downloads a webpage and extracts readable text using BeautifulSoup.
 
 ```bash
 pip install -r requirements.txt
-py -m streamlit run src/app.py
+py -m streamlit run app.py
 ```
 
 ## What You Need
