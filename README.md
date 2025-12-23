@@ -1,6 +1,6 @@
-# Live Web Search RAG Chatbot 🚀
+# Live Web Search RAG Chatbot 
 
-Hi there! This is a **Streamlit chatbot** I built that combines web search and AI to answer questions in real time. Here's what it does:
+Hi there!👋 This is a **Streamlit chatbot** I built that combines web search and AI to answer questions in real time. Here's what it does:
 
 1. Searches the web instantly using **SerpAPI**.
 2. Scrapes the text from the retrieved pages.
